@@ -1,0 +1,11 @@
+[1mdiff --git a/chapter3.txt b/chapter3.txt[m
+[1mindex d41f288..126dd07 100644[m
+[1m--- a/chapter3.txt[m
+[1m+++ b/chapter3.txt[m
+[36m@@ -1 +1,3 @@[m
+[31m-it is chapter 3 for git learning.[m
+\ No newline at end of file[m
+[32m+[m[32mit is chapter 3 for git learning.[m
+[32m+[m[32masdfasdfasdf  afsdf sa[m
+[32m+[m[32mfa sdfas[m
+\ No newline at end of file[m
